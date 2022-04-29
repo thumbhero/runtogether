@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## Let's Run Together
+選一條路線， 招集一群朋友， 起跑！
 You can use the [editor on GitHub](https://github.com/thumbhero/runtogether.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
